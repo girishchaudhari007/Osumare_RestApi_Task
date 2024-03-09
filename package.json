@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rbcoder1/osumare_assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rbcoder1/osumare_assignment/issues"
+  },
+  "homepage": "https://github.com/Rbcoder1/osumare_assignment#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mon": "^0.0.8",
+    "node": "^21.7.1",
+    "nodemon": "^3.1.0",
+    "uuid": "^9.0.1"
+  }
+}
